@@ -9,3 +9,7 @@ export const data2 = () => {
 export const data3 = () => {
   return 'returning data from module data three';
 };
+
+export const fromProject = () => {
+  return 'Added data from the project';
+};
