@@ -13,3 +13,7 @@ export const data3 = () => {
 export const fromProject = () => {
   return 'Added data from the project';
 };
+
+export const fromProjectSecondTime = () => {
+  return 'Added data from the project';
+};
