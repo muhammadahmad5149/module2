@@ -5,3 +5,7 @@ export const data = () => {
 export const data2 = () => {
   return 'returning data from module data two';
 };
+
+export const data3 = () => {
+  return 'returning data from module data three';
+};
